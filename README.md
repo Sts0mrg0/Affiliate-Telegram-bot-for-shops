@@ -13,4 +13,4 @@
 
 # Cretis
 - Repo: https://github.com/NoNameoN-A/Affiliate-Telegram-bot-for-shops
-- Developer's WebSite: nonameon.altervista.org
+- Developer's WebSite: https://nonameon.altervista.org
