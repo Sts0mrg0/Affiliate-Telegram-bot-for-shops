@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Watch the column
 
-You can use the [editor on GitHub](https://github.com/NoNameoN-A/Affiliate-Telegram-bot-for-shops/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://www.buymeacoffee.com/NoNameoNA" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 150px !important;" ></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|Title| Link |
+|--|--|
+|Bot|[Bot](https://t.me/AliExpress_NoNameoN_bot)|
+| All my channels | [Channel](https://t.me/AliExpress_Offers_NoNameoN) |
+|Under 10$|[Channel](https://t.me/AliExpress_Offers_Under10)|
+|10$ ... 25$|[Channel](https://t.me/AliExpress_Offers_10_25)|
+|25$ ... 40$|[Channel](https://t.me/AliExpress_From25_To40_NoNameoN)|
+|40$ ... 55$|[Channel](https://t.me/AliExpress_Offers_40_55_NoNameoN)|
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NoNameoN-A/Affiliate-Telegram-bot-for-shops/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Cretis
+- Repo: https://github.com/NoNameoN-A/Affiliate-Telegram-bot-for-shops
+- Developer's WebSite: https://nonameon.altervista.org
