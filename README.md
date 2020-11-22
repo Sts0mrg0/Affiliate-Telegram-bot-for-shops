@@ -13,5 +13,6 @@
 |40$ ... 55$|[Channel](https://t.me/AliExpress_Offers_40_55_NoNameoN)|
 
 # Cretis
+## If you like my repo please release a star on the top (:
 - Repo: https://github.com/NoNameoN-A/Affiliate-Telegram-bot-for-shops
 - Developer's WebSite: https://nonameon.altervista.org
