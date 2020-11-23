@@ -1,5 +1,5 @@
 
-# Loading...
+# Ready (:
 ![View Count](https://counter.gofiber.io/badge/NoNameoN/Affiliate-Telegram-bot-for-shops)
 
 ## I'm at work for a guide, press 'watch' for receive notify when I put some updates
