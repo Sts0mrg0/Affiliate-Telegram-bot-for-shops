@@ -47,7 +47,7 @@ You must change it with your channel id. You can find this info by clicking your
 If your channel have this link: https://t.me/AliExpress_Offers_40_55_NoNameoN your channel id is @AliExpress_Offers_40_55_NoNameoN
 ## Problems
 ### If you have problems you can create an issue on issues section.
-# Cretis
+# Credits
 ### If you like my repo please release a star on the top (:
 - Repo: https://github.com/NoNameoN-A/Affiliate-Telegram-bot-for-shops
 - Developer's WebSite: https://nonameon.altervista.org
