@@ -11,10 +11,10 @@
 |Repo|[WebSite](https://nonameon-a.github.io/Affiliate-Telegram-bot-for-shops/)|
 |Bot|[Bot](https://t.me/AliExpress_NoNameoN_bot)|
 | All my channels | [Channel](https://t.me/AliExpress_Offers_NoNameoN) |
-|Under 10$|[Channel](https://t.me/AliExpress_Offers_Under10)|
-|10$ ... 25$|[Channel](https://t.me/AliExpress_Offers_10_25)|
-|25$ ... 40$|[Channel](https://t.me/AliExpress_From25_To40_NoNameoN)|
-|40$ ... 55$|[Channel](https://t.me/AliExpress_Offers_40_55_NoNameoN)|
+|Under 10$|[Channel](https://t.me/joinchat/WH8DFKL0XIVx2FLN)|
+|10$ ... 25$|[Channel](https://t.me/joinchat/WI7-VWvrwpsr-CuL)|
+|25$ ... 40$|[Channel](https://t.me/joinchat/UL3SKjYyo6x0VgDy)|
+|40$ ... 55$|[Channel](https://t.me/joinchat/RvT4wRoTYg3va_jA)|
 
 # Bot dot py
 ## API_TOKEN
