@@ -2,9 +2,6 @@
 # Sponsorship
 Become a [sponsor](https://github.com/sponsors/NoNameoN-A) with 1 dollar :D
 
-## I'm at work for a guide, press 'watch' for receive notify when I put some updates
-
-
 |Title| Link |
 |--|--|
 |Repo|[WebSite](https://nonameon-a.github.io/Affiliate-Telegram-bot-for-shops/)|
