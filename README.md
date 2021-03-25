@@ -1,10 +1,9 @@
 
-# Ready (:
-![View Count](https://counter.gofiber.io/badge/NoNameoN/Affiliate-Telegram-bot-for-shops)
+# Sponsorship
+Become a [sponsor](https://github.com/sponsors/NoNameoN-A) with 1 dollar :D
 
 ## I'm at work for a guide, press 'watch' for receive notify when I put some updates
 
-<a href="https://www.buymeacoffee.com/NoNameoNA" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 150px !important;" ></a>
 
 |Title| Link |
 |--|--|
